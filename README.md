@@ -199,8 +199,8 @@ application.properties
 
 ## 👨‍💻 Author
 
-GitHub: [[your-profile-link](https://github.com/Seif-Elsokary)]  
-LinkedIn: [[your-profile-link](https://www.linkedin.com/in/seif-elsokary-350233256/)]  
+GitHub: [[GitHub](https://github.com/Seif-Elsokary)]  
+LinkedIn: [[LinkedIn](https://www.linkedin.com/in/seif-elsokary-350233256/)]  
 
 ---
 
